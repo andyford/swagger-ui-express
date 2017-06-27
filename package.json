@@ -1,7 +1,7 @@
 {
-  "name": "swagger-ui-express",
-  "version": "2.0.0",
-  "description": "Swagger UI Express",
+  "name": "swagger-ui-node-express",
+  "version": "0.1.0",
+  "description": "Swagger UI Node Express",
   "main": "./lib/index.js",
   "files": [
     "static",
@@ -30,17 +30,17 @@
     "phantom": "2.1.21"
   },
   "author": {
-    "name": "Stephen Scott",
-    "email": "scottie1984@gmail.com"
+    "name": "Andy Ford",
+    "email": "andy@fordinteractive.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:scottie1984/swagger-ui-express.git"
+    "url": "git@github.com:andyford/swagger-ui-node-express.git"
   },
   "license": "BSD-2-Clause",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/scottie1984/swagger-ui-express/issues"
+    "url": "https://github.com/andyford/swagger-ui-node-express/issues"
   },
-  "homepage": "https://github.com/scottie1984/swagger-ui-express"
+  "homepage": "https://github.com/andyford/swagger-ui-node-express"
 }
