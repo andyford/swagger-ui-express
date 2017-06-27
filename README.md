@@ -1,4 +1,6 @@
-# Swagger UI Express
+# Swagger UI (Node) Express
+
+NOTE: This is a fork of [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) which only updates the [swagger-ui](https://github.com/swagger-api/swagger-ui) .js files to version 3.0.17.
 
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
 
